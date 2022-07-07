@@ -1,0 +1,35 @@
+|CMDLET	|Действие|
+|Add-VBRESX|	Add ESX server|
+|Add-VBRESXi|	Add ESXi|
+|Add-VBRBackupJob|	Create a backup job|
+|Add-VBRReplicaJob|	Create a replica job|
+|Add-VBRLinux|	Add Linux server|
+|Add-VBRVCenter|	Add VirtualCenter server|
+|Add-VBRCopyJob|	Add a File Copy job (FastSCP)|
+|Get-VBRJobDestination|	Get destination remote or local|
+|Get-VBRJob|	Get job list|
+|Get-VBRJobOptions|	Get additional backup job settings|
+|Get-VBRReplicaJobs|	Get additional replica job settings|
+|Get-VBRJobSchedule|	Job Schedule|
+|Get-VBRJobVSSOptions|	Backup Consistency VSS|
+|Get-VBRJobRestorePoints|	Get restore point|
+|Get-VBRServers|	Get hosts list.|
+|Remove-VBRJob|	Remove the job|
+|Remove-VBRServer|	Remove a server.|
+|Set-VBRESX|	Set ESX server options you want to work with to Veeam Backup and FastSCP.|
+|Set-VBRESXi|	Set ESXi server options you want t o work with to Veeam Backup and FastSCP.|
+|Set-VBRBackupJob|	Edit a backup job|
+|Set-VBRJobOptions|	Edit additional backup job settings.|
+|Set-VBRReplicaJob|	Set a replica job|
+|Set-VBRJobSchedule|	Job Schedule|
+|Set-VBRJobVssOptions|	Backup Consistency|
+|Set-VBRLinux|	Set the job Linux server options|
+|Set-VBRRestoreVM|	Restore VM|
+|Set-VBRRestoreVMFiles|	Restoring VM Files: VMX, VMDK, etc|
+|Set-VBRVCenter|	Set VirtualCenter server|
+|Start-VBRGuestFileRestore|	Start file restore|
+|Start-VBRJob|	Start the job|
+|Start-VBRReplicaFailover|	Start the replica|
+|Stop-VBRGuestFileRestore|	Stop file restore|
+|Stop-VBRJob|	Stop the job|
+|Stop-VBRReplicaFailover	Stop the replica|
